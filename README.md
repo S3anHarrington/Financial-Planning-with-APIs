@@ -19,3 +19,16 @@ from MCForecastTools import MCSimulation
 load_dotenv('SAMPLE.env')
 
 **Follow All financial_planning_instructions.ipynb Instuctions**
+
+Happy coding!
+
+-----------------------------------------------------------------------
+
+# Contributors
+
+Sean Harrington-
+    Linkedin: www.linkedin.com/in/sean-harrington16
+
+-----------------------------------------------------------------------
+
+# License
